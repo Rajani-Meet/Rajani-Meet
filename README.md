@@ -1,84 +1,79 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Meet%20Rajani&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Systems%20Architect%20%7C%20Agentic%20AI%20Specialist&descAlignY=58&descSize=20&descColor=a78bfa" width="100%" />
-</div>
-
-<div align="center">
-
-# Hi there, I'm **Meet Rajani - Architecting the Future of Agentic AI** 🦾
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-meet--rajani--portfolio-7c3aed?style=for-the-badge&logoColor=white)](https://meet-rajani-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meet-rajani-39233b286/)
-[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajanimeet2005@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rajani-Meet)
-
+  <h1>Hi there, I'm Meet Rajani 👋</h1>
+  <h3>AI Systems Architect | Machine Learning Engineer</h3>
+  <p>Building Self-Evolving Agents • Architecting Neural Pipelines • IIT Mandi AI Specialist</p>
 </div>
 
 ---
 
-## 💫 About Me:
-🔭 **Currently Building**: [**DraftZero**](https://github.com/Rajani-Meet/DraftZero) — An autonomous Multi-Agent AI system for research paper synthesis. <br>
-🌱 **Specialization**: AI Minor from **IIT Mandi** | Deep Learning & Systems Engineering. <br>
-🤝 **Open to**: Collaborating on **Agentic AI**, **Explainable AI (XAI)**, or **Digital Twin** frameworks. <br>
-💡 **Expertise**: Multi-Agent RAG pipelines, n8n workflow automation, and .NET Core backends. <br>
-⚡ **Fun fact**: I don't just prompt AI; I build the agents that prompt the world.
+### 🏛️ INTELLIGENCE HUB (About Me)
+I'm a specialized **AI Systems Architect** based in India, with an **AI Minor from IIT Mandi**. My work focuses on bridging the gap between autonomous neural intelligence and high-performance production ecosystems.
+
+- 🔭 **Current Focus**: Scaling **DraftZero** — An autonomous multi-agent AI research synthesis pipeline.
+- 🎓 **Credentials**: B.Tech in IT at **CHARUSAT**| minor in Artificial Inteligence at **IIT Mandi**.
+- 🔬 **Research Vectors**: Explainable AI (XAI) and synchronized Digital Twin frameworks.
+- ⚡ **Neural Link**: I architect self-evolving agentic loops that solve industrial-scale complexity.
 
 ---
 
-## 🛠️ Technical Arsenal:
-
-### 🤖 AI & Machine Learning
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=flat-square)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-
-### 🌐 Full-Stack & Systems
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![NextJS](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-
-### ⚡ Automation & Tools
-![n8n](https://img.shields.io/badge/n8n-%23FF6D5A.svg?style=flat-square&logo=n8n&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)
-
----
-
-## 📊 GitHub Ecosystem:
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rajani-Meet&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajani-Meet&theme=tokyonight&hide_border=true" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajani-Meet&theme=tokyonight&hide_border=true&layout=compact&bg_color=0D1117" width="100%" />
-</div>
-
----
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-### 📈 Learning Protocol
-| Tech Stack | Progress | Status |
+### 🧪 FEATURED LABS (Current Projects)
+| Project | Description | Stack |
 | :--- | :--- | :--- |
-| **Agentic Workflows** | ████████████████████ | 🏆 Production |
-| **Neural Architectures** | ██████████████░░░░░░ | 🔬 Researching |
-| **Explainable AI (XAI)** | ████████░░░░░░░░░░░░ | 📖 Learning |
+| **[DraftZero](https://github.com/Rajani-Meet/DraftZero)** | Autonomous system turning repos into LaTeX papers via multi-agent pipelines. | `Python` `LLMs` `LangChain` |
+| **[AI Powered LMS](https://github.com/Rajani-Meet/AI-Powered-Learning-Management-System-)** | Learning platform with automated video summarization and AI chat assistants. | `Next.js` `OpenAI` `TypeScript` |
+| **[CodeForge Hub](https://github.com/Rajani-Meet/CodeForge-Hub)** | Real-time multiplayer code editor with synchronized cursors and AI completions. | `React` `Node.js` `Socket.io` |
+| **[SMS GPT](https://github.com/Rajani-Meet/SMS-GPT)** | Offline LLM protocol enabling AI interaction via SMS (no internet required). | `Twilio` `Express` `OpenAI` |
 
 ---
 
+### 🛠️ TECHNICAL ARSENAL
 
+**🧠 AI & MACHINE LEARNING**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97-Hugging%20Face-FFD21E?style=for-the-badge)
+
+**⚡ BACKEND & SYSTEMS**
+![.NET](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**🌐 FRONTEND ECOSYSTEM**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
+---
+
+### 📝 ACADEMIC RECOGNITION
+- **Published Paper**: *Explainable Digital Twin Framework for Circadian-Aware Early Detection in Digital Addiction* (ViewSpace Journal / ICETMR).
+
+---
+
+### 📊 TELEMETRY DASHBOARD
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%" />
+
+| ![Stats](https://github-readme-stats.vercel.app/api?username=Rajani-Meet&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8&icon_color=38BDF8) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rajani-Meet&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakNum=38BDF8) |
+| :---: | :---: |
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajani-Meet&theme=tokyonight&hide_border=true&layout=compact&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" width="100%" />
+
+</div>
+
+---
+
+### 📫 INITIALIZE CONNECT
+<div align="center">
+  <br>
+  <a href="https://meet-rajani-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=react&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/meet-rajani-39233b286/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:rajanimeet2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <br><br>
+  <p align="center"><b>Architecting Intelligent Systems | Merging Creativity with Autonomous Logic</b></p>
 </div>
