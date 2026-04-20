@@ -10,9 +10,18 @@
 I'm a specialized **AI Systems Architect** based in India, with an **AI Minor from IIT Mandi**. My work focuses on bridging the gap between autonomous neural intelligence and high-performance production ecosystems.
 
 - 🔭 **Current Focus**: Scaling **DraftZero** — An autonomous multi-agent AI research synthesis pipeline.
-- 🎓 **Credentials**: B.Tech in IT at **CHARUSAT**| minor in Artificial Inteligence at **IIT Mandi**.
+- 🎓 **Credentials**: B.Tech in IT at **CHARUSAT** | Minor in Artificial Intelligence at **IIT Mandi**.
 - 🔬 **Research Vectors**: Explainable AI (XAI) and synchronized Digital Twin frameworks.
 - ⚡ **Neural Link**: I architect self-evolving agentic loops that solve industrial-scale complexity.
+
+---
+
+### 💼 PROFESSIONAL EXPERIENCE
+| Role | Company | Period | Tech Stack |
+| :--- | :--- | :--- | :--- |
+| **Summer Intern** | **Logical Wings Infoweb Pvt Ltd** | May – June 2025 | `.NET Core MVC` `SQL Server` |
+| **.NET Intern** | **Sky9 IT Craft Pvt. Ltd.** | Aug 2023 | `.NET` `SQL Server` |
+| **.NET Intern** | **Dsoft Infotech Pvt. Ltd.** | Sep 2022 | `.NET` `Relational DB` |
 
 ---
 
