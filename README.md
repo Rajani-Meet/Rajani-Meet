@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Meet Rajani 👋</h1>
-  <h3>AI Systems Architect | Machine Learning Engineer</h3>
+  <h3>Full Stack Developer | Cloud & DevOps Engineer | AI/ML Engineer </h3>
   <p>Building Self-Evolving Agents • Architecting Neural Pipelines • IIT Mandi AI Specialist</p>
 </div>
 
